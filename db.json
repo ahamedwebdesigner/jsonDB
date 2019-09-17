@@ -1,1 +1,71 @@
-
+[{
+  "id": 1,
+  "car_name": "Spectra",
+  "car_manufacturer": "Kia",
+  "modle": 2009,
+  "color": "Crimson",
+  "owner_name": "Andria Verheyden"
+}, {
+  "id": 2,
+  "car_name": "S70",
+  "car_manufacturer": "Volvo",
+  "modle": 1998,
+  "color": "Maroon",
+  "owner_name": "Fran Knightly"
+}, {
+  "id": 3,
+  "car_name": "SX4",
+  "car_manufacturer": "Suzuki",
+  "modle": 2012,
+  "color": "Red",
+  "owner_name": "Keven Twinning"
+}, {
+  "id": 4,
+  "car_name": "C-Class",
+  "car_manufacturer": "Mercedes-Benz",
+  "modle": 2012,
+  "color": "Puce",
+  "owner_name": "Nobie Gully"
+}, {
+  "id": 5,
+  "car_name": "A8",
+  "car_manufacturer": "Audi",
+  "modle": 2007,
+  "color": "Yellow",
+  "owner_name": "Lorens Graal"
+}, {
+  "id": 6,
+  "car_name": "Tribeca",
+  "car_manufacturer": "Subaru",
+  "modle": 2011,
+  "color": "Yellow",
+  "owner_name": "Lizbeth Klugel"
+}, {
+  "id": 7,
+  "car_name": "Riviera",
+  "car_manufacturer": "Buick",
+  "modle": 1986,
+  "color": "Orange",
+  "owner_name": "Laverna Van Der Hoog"
+}, {
+  "id": 8,
+  "car_name": "Celica",
+  "car_manufacturer": "Toyota",
+  "modle": 1976,
+  "color": "Goldenrod",
+  "owner_name": "Sallee Flather"
+}, {
+  "id": 9,
+  "car_name": "Aurora",
+  "car_manufacturer": "Oldsmobile",
+  "modle": 1999,
+  "color": "Puce",
+  "owner_name": "Thurstan Paolillo"
+}, {
+  "id": 10,
+  "car_name": "FJ Cruiser",
+  "car_manufacturer": "Toyota",
+  "modle": 2009,
+  "color": "Green",
+  "owner_name": "Sara-ann Penwell"
+}]
